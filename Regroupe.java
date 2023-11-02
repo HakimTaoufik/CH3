@@ -1,4 +1,3 @@
-package CH3;
 public class Regroupe {
     // exercice 3.2 page 51
     public static void regroupe(int[] tab) {

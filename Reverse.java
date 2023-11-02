@@ -1,4 +1,3 @@
-package CH3;
 public class Reverse {
     // exercice 3.1 page 50
     public static void reverse(int[] t) {

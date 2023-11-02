@@ -1,4 +1,3 @@
-package CH3;
 public class JeuDeBattaile {
     public static void battre(int[] donne) {
         // shuffle a deck
@@ -35,8 +34,10 @@ public class JeuDeBattaile {
             }
         }
     }
-
+    
     public static int[][] bataille(int[] jeuA, int[] jeuB) {
+        // bataille
+        // à modifier
         int a = jeuA.length, b = jeuB.length;
         int gainA = 0, gainB = 0;
         for (int i = 0; i < Math.min(a, b); i++) {
